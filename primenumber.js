@@ -1,4 +1,3 @@
-//program to check the prime number
 //take input from the user
 const num=ParseInt(prompt('Enter a positive number:'));
       isprime=true;
